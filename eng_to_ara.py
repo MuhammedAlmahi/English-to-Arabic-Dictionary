@@ -1,4 +1,4 @@
-from D import dictionary
+from Data import dictionary
 
 
 dictionary = dictionary.eng_to_ara
